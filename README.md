@@ -22,3 +22,4 @@ For Deploy:
 ````sh
 npm run build
 ````
+It will creat a dist folder that contains all the minified code for the project
