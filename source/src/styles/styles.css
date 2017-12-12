@@ -1,0 +1,27 @@
+#app {
+  font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #4d4d4d;
+  margin: 0 auto;
+}
+
+a.active {
+  color: orange;
+}
+
+nav {
+  padding: 13px 0 13px 0;
+}
+
+.navbar-nav{
+  padding: 0;
+  list-style: none;
+}
+
+.navbar-nav .nav-item {
+  margin-left: 10px;
+  padding: 0;
+}
+
+.gravatar {
+  width: 50px;
+}
